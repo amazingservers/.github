@@ -1,4 +1,4 @@
-![Amazing Servers Wallpaper](wallpaper.jpg)
+![Amazing Servers Wallpaper](https://media.discordapp.net/attachments/975390448283684864/1242128503722344529/image.png)
 
 # Amazing Servers 🚀  
 **Fundada pelo grupo Amazing Ventures em 2018**, a **Amazing Servers** tem como missão revolucionar as redes de jogos online, entregando **soluções inovadoras**, **sistemas otimizados**, e serviços de **alta qualidade**.  
