@@ -1,12 +1,11 @@
-## Hi there 👋
+![Amazing Servers Wallpaper](wallpaper.jpg)
 
-<!--
+# Amazing Servers 🚀  
+**Fundada pelo grupo Amazing Ventures em 2018**, a **Amazing Servers** tem como missão revolucionar as redes de jogos online, entregando **soluções inovadoras**, **sistemas otimizados**, e serviços de **alta qualidade**.  
 
-**Here are some ideas to get you started:**
+Atualmente, somos especializados no desenvolvimento para **MTA:SA (Multi Theft Auto)**, mas nossa visão vai além. Em projetos futuros, planejamos expandir para outras plataformas populares como:  
+- **SA-MP (San Andreas Multiplayer)**  
+- **FiveM**  
+- **Roblox**  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Nossa equipe é dedicada a oferecer o melhor para a comunidade gamer, combinando **tecnologia de ponta**, **criatividade**, e **paixão** por jogos.
